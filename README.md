@@ -32,6 +32,11 @@ The following patch loads a .WAV audio file into the buffer~ object, the groove~
 ![240206_groove2](2024-02-06_11-24-49.png)
 
 
+### Extra
+
+[240206_grovve3}(2024-02-06_12-00-14.png)
+
+
 ## Next steps
 
 Please have a look at the website [Learning Synths](https://learningsynths.ableton.com/en/get-started), it is an easy way to learn and try out the basics of
