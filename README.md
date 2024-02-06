@@ -34,7 +34,7 @@ The following patch loads a .WAV audio file into the buffer~ object, the groove~
 
 ### Extra
 
-![240206_grovve3}(2024-02-06_12-00-14.png)
+![240206_groove3](2024-02-06_12-00-14.png)
 
 
 ## Next steps
