@@ -7,11 +7,11 @@ In this repository you find some basic materials, the folder `Patches` contains 
 
 ## To get started
 
-I suggest that you just assemble by yourself a small starter patch with the objecta and arguments
+I suggest that you just assemble by yourself a small starter patch with the following objects/arguments:
 
-- `cycle~ 440`
-- `gain~`
-- `ezdac~`
+- `cycle~ 440` - The sound source generating a sinus wave
+- `gain~` - The volume control
+- `ezdac~` - The interface to your computer's loudspeaker
 
 and try to get a sound out of it. You may also add a numberbox and connect its outlet with the inlet of the cycle~ object.
 
